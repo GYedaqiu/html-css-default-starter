@@ -254,3 +254,9 @@ ul {
     height: 0.25rem;
     margin: 0 auto;
 }
+
+
+html {
+  scroll-behavior: smooth;
+  /* scroll-padding-top: some value for the height of a navbar; */
+}
