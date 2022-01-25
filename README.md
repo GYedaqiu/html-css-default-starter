@@ -1,5 +1,5 @@
 ## Normalize
-Include the latest version of normalize.css in your files to provide cross-browser consistency i ndefault styling of HTML elements.
+Include the latest version of normalize.css in your files to provide cross-browser consistency default styling of HTML elements.
 
 or do this:
 ```css
